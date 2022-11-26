@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/css/main.073c9b0a.css",
-    "main.js": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/js/main.6c0105b8.js",
-    "static/js/787.87cf4989.chunk.js": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/js/787.87cf4989.chunk.js",
-    "static/media/logo.svg": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/index.html",
-    "main.073c9b0a.css.map": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/css/main.073c9b0a.css.map",
-    "main.6c0105b8.js.map": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/js/main.6c0105b8.js.map",
-    "787.87cf4989.chunk.js.map": "/Arka21ucsc.github.io/Local_value_numbering_visualizer/static/js/787.87cf4989.chunk.js.map"
+    "main.css": "/arka21.github.io/Local_value_numbering_visualizer/static/css/main.073c9b0a.css",
+    "main.js": "/arka21.github.io/Local_value_numbering_visualizer/static/js/main.aa31a2df.js",
+    "static/js/787.87cf4989.chunk.js": "/arka21.github.io/Local_value_numbering_visualizer/static/js/787.87cf4989.chunk.js",
+    "static/media/logo.svg": "/arka21.github.io/Local_value_numbering_visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arka21.github.io/Local_value_numbering_visualizer/index.html",
+    "main.073c9b0a.css.map": "/arka21.github.io/Local_value_numbering_visualizer/static/css/main.073c9b0a.css.map",
+    "main.aa31a2df.js.map": "/arka21.github.io/Local_value_numbering_visualizer/static/js/main.aa31a2df.js.map",
+    "787.87cf4989.chunk.js.map": "/arka21.github.io/Local_value_numbering_visualizer/static/js/787.87cf4989.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6c0105b8.js"
+    "static/js/main.aa31a2df.js"
   ]
 }
